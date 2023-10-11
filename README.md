@@ -1,1 +1,5 @@
 # DETECTING_EARLY_ALZHEIMER
+
+The Early Alzheimer’s detection dataset analysis was successful in offering insightful facts and knowledge. Finding the data kinds, missing values, and practical independent variables was made easier by the data cleaning and feature selection procedures. A deeper knowledge of the dataset was achieved through the evaluation of the distribution of numerical variables and the choice of independent variables using various techniques. Making educated decisions was aided by the analysis of missing data, validating the independence of predictor variables, figuring out the significance of predictor variables, and assessing the effects of removing outliers.
+
+The interpretation of the regression coefficients, nodes of the tree-based model, and SHAP analysis helped to better understand the models and compare them with other interpretability techniques, and using AutoML libraries like H2O.ai to create predictive models and interpret them provided insightful information. The project gave students a thorough understanding of data analysis methods and how they are used in predictive learning.
